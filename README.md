@@ -1,5 +1,5 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p align="center" dir="auto">
-  <b>Hola <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, Soy Luis498/Truchorko</b><br>
+  <b>Hola <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, Soy Truchorko#5566</b><br>
 </p>
 <p align="center" dir="auto"><br>
   <a href="https://github.com/luis498">
