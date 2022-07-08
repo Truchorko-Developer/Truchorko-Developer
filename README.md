@@ -2,7 +2,7 @@
   <b>Hola <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, Soy Truchorko#5566</b><br>
 </p>
 <p align="center" dir="auto"><br>
-  <a href="https://github.com/luis498">
+  <a href="https://github.com/Truchorko-Developer">
     <img src="https://lanyard.cnrad.dev/api/840025174651830333" data-canonical-src="https://lanyard.cnrad.dev/api/840025174651830333" style="max-width: 100%;">
      </a>
 </p>
