@@ -1,3 +1,5 @@
+<body style="color: #fff">
+
 <p align='center'>
   <b>Hi 👋, I'm Truchorko_5566</b><br>
   <a href="https://team.arcades.ga/discord">Discord</a> |
@@ -35,4 +37,4 @@
 
 
 
-
+</body>
