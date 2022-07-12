@@ -1,4 +1,4 @@
-<body style="color: #fff">
+<body style="background-color: red">
 
 <p align='center'>
   <b>Hi 👋, I'm Truchorko_5566</b><br>
