@@ -22,7 +22,26 @@
 	<b>Estadisticas</b>
 	<br>
 	<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1f095aa9f7b464ab946ce772abbf2f6816b74e93e1c85debca96333f4745ead6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4e6f7453616b7368266c61796f75743d636f6d7061637426636f756e745f707269766174653d74727565266c616e67735f636f756e743d3826686964655f626f726465723d74727565267468656d653d6461726b"><img src="https://camo.githubusercontent.com/1f095aa9f7b464ab946ce772abbf2f6816b74e93e1c85debca96333f4745ead6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4e6f7453616b7368266c61796f75743d636f6d7061637426636f756e745f707269766174653d74727565266c616e67735f636f756e743d3826686964655f626f726465723d74727565267468656d653d6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis498&amp;layout=compact&amp;count_private=true&amp;langs_count=8&amp;hide_border=true&amp;theme=dark" style="max-width: 100%;"></a>
-	
+</p>
+</article>
+
+
+<p align='center'>
+  <b>Hi 👋, I'm NotSaksh</b><br>
+  <a href="https://discord.gg/notsaksh">Discord</a> |
+  <a href="https://www.youtube.com/c/NotSaksh">YouTube</a> |
+  <a href="https://twitter.com/NotSaksh">Twitter</a> |
+  <a href="https://codepen.io/NotSaksh">Code Pen</a>
+</p>
+
+<p align="center"><br>
+  <a href="https://github.com/NotSaksh">
+    <img src="https://lanyard.cnrad.dev/api/966411522106605608"/>
+     </a>
+</p>
+
+<br><br>
+<p align="center">
 	<b>Languages & Frameworks</b>
 	<br>
 	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;|
@@ -40,14 +59,8 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=NotSaksh&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSaksh&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
-
-	
 </p>
-	
-		
-	
 
-</article>
 
 
 
