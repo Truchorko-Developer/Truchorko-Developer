@@ -1,11 +1,11 @@
-<body style="background-color: red">
+<body style="background: #ffff12">
 
 <p align='center'>
   <b>Hi 👋, I'm Truchorko_5566</b><br>
   <a href="https://team.arcades.ga/discord">Discord</a> |
   <a href="https://youtube.com/TeamArcades">YouTube</a> |
-  <a href="https://twitter.com/">Twitter</a> |
-  <a href="https://codepen.io/">Code Pen</a>
+  <a href="https://team.arcades.ga/">Website</a> |
+  <a href="https://team.arcades.ga/rocket">My Bot</a>
 </p>
 
 <p align="center"><br>
